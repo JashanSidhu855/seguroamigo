@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.373db0c8.css",
+    "main.js": "/static/js/main.a0923192.js",
+    "static/js/787.5c984333.chunk.js": "/static/js/787.5c984333.chunk.js",
+    "static/media/image.mp4": "/static/media/image.cd0a9a7bff2da19d24b9.mp4",
+    "static/media/lugo.png": "/static/media/lugo.6e7bd32dd5b99cdfd659.png",
+    "static/media/card-bg.png": "/static/media/card-bg.56943c53556fc1ef1ddf.png",
+    "static/media/hero.png": "/static/media/hero.e6249a439695d5093eb5.png",
+    "static/media/bg-about-us.png": "/static/media/bg-about-us.080d5403edbf5a2ab078.png",
+    "static/media/nav_logo.png": "/static/media/nav_logo.7054676b8b5ab053b619.png",
+    "static/media/nav_logo_es.png": "/static/media/nav_logo_es.6f4f75adee39c5cb1ed6.png",
+    "static/media/logo.png": "/static/media/logo.4e0a68834d893d2cb01e.png",
+    "static/media/g1.png": "/static/media/g1.815e484f7dbc5cbed1e1.png",
+    "static/media/Immigrant Essential Resources.png": "/static/media/Immigrant Essential Resources.99befb46f969a9134085.png",
+    "static/media/immigrationlegal_es.png": "/static/media/immigrationlegal_es.7dc9505b4c858bb3cd1a.png",
+    "static/media/graph.png": "/static/media/graph.1316dbe6f8b259a7f32b.png",
+    "static/media/nav_logo_spinner.png": "/static/media/nav_logo_spinner.177deb769f9e5d986488.png",
+    "static/media/Immigrant Essential Resources Spanish.png": "/static/media/Immigrant Essential Resources Spanish.e627e6d11f816d961a44.png",
+    "static/media/fast business.png": "/static/media/fast business.c43bed8e8e18636f93c8.png",
+    "static/media/fast business_es.png": "/static/media/fast business_es.440a24f729fb0afeed68.png",
+    "static/media/immigrationlegal.png": "/static/media/immigrationlegal.f7c01020e0f43ddb7a5b.png",
+    "static/media/thimble1.png": "/static/media/thimble1.ab28e07db10e999cba58.png",
+    "static/media/mobile_immegrant.png": "/static/media/mobile_immegrant.b156d546768dc9efeb11.png",
+    "static/media/Next .png": "/static/media/Next .a5a3c8939f22e0cad10d.png",
+    "static/media/mobile_fast.png": "/static/media/mobile_fast.bdc9ebc9141352cdf191.png",
+    "static/media/Coterie .png": "/static/media/Coterie .f099f7e002bbbb2534c9.png",
+    "static/media/tiktok.png": "/static/media/tiktok.a2f0f3159442ab7deccc.png",
+    "index.html": "/index.html",
+    "main.373db0c8.css.map": "/static/css/main.373db0c8.css.map",
+    "main.a0923192.js.map": "/static/js/main.a0923192.js.map",
+    "787.5c984333.chunk.js.map": "/static/js/787.5c984333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.373db0c8.css",
+    "static/js/main.a0923192.js"
+  ]
+}
